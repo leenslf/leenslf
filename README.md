@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm [Leen] 👋
 
-<!--
-**leenslf/leenslf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me:
+- 🔭 I’m currently pursuing a Bachelor’s degree in Computer Engineering at Hacettepe University.
+- 🌱 I’m currently learning [AI and Machine Learning applications, Embedded Systems, Robotics. Backend Development]
+- 📫 How to reach me: [leensaid24@gmail.com] / [https://www.linkedin.com/in/leen-said-51a8271b1/]
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Technologies:
+- Programming Languages: [ava, Python, C, C++, SQL]
+- Frameworks: [ROS2]
+- Libraries: [Pandas, NumPy, YOLOv8, OpenCV]
+- Tools: [Docker, Git, Android Studio]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Languages
+  English: Native or Bilingual Fluency
+  Arabic: Native or Bilingual Fluency
+  Turkish: Beginner
+
+## 🚀 Projects:
+- [RHex Robot Simulation Control and YOLOv8 Human Detection](https://github.com/leenslf/RHex-Robot-Projects) - During my internship at Teknolus Energy, I collaborated with [Hamza Awad](https://github.com/awwad-hamza) on two significant projects: the development of an Android GUI for controlling the RHex robot simulation and the implementation of YOLOv8 for human detection within the RHex simulation environment. 
+
+
+## 📈 GitHub Stats:
+![Leen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leenslf&show_icons=true&theme=radical)
+
+
