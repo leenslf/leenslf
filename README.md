@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me:
 - 🔭 I’m currently pursuing a Bachelor’s degree in Computer Engineering at Hacettepe University.
-- 🌱 I’m currently learning AI and Machine Learning applications, Embedded Systems, Robotics. Backend Development
+- 🌱 I’m currently learning AI and Machine Learning applications, Embedded Systems, Robotics, and Backend Development.
 - 📫 How to reach me: leensaid24@gmail.com | https://www.linkedin.com/in/leen-said-51a8271b1/
 
 ## 🛠️ Skills & Technologies:
