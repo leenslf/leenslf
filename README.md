@@ -2,14 +2,14 @@
 
 ## 👨‍💻 About Me:
 - 🔭 I’m currently pursuing a Bachelor’s degree in Computer Engineering at Hacettepe University.
-- 🌱 I’m currently learning [AI and Machine Learning applications, Embedded Systems, Robotics. Backend Development]
-- 📫 How to reach me: [leensaid24@gmail.com] / [https://www.linkedin.com/in/leen-said-51a8271b1/]
+- 🌱 I’m currently learning AI and Machine Learning applications, Embedded Systems, Robotics. Backend Development
+- 📫 How to reach me: leensaid24@gmail.com | https://www.linkedin.com/in/leen-said-51a8271b1/
 
 ## 🛠️ Skills & Technologies:
-- Programming Languages: [ava, Python, C, C++, SQL]
-- Frameworks: [ROS2]
-- Libraries: [Pandas, NumPy, YOLOv8, OpenCV]
-- Tools: [Docker, Git, Android Studio]
+- Programming Languages: Java, Python, C, C++, SQL
+- Frameworks: ROS2
+- Libraries: Pandas, NumPy, YOLOv8, OpenCV
+- Tools: Docker, Git, Android Studio
 
   ### Languages
   English: Native or Bilingual Fluency
