@@ -1,4 +1,4 @@
-# Hi there, I'm [Leen] 👋
+# Hi there, I'm Leen 👋
 
 ## 👨‍💻 About Me:
 - 🔭 I’m currently pursuing a Bachelor’s degree in Computer Engineering at Hacettepe University.
