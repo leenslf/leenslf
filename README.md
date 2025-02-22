@@ -12,8 +12,8 @@
 - Tools: Docker, Git, Android Studio
 
 ## Languages
+- Arabic: Native
 - English: Native or Bilingual Fluency
-- Arabic: Native or Bilingual Fluency
 - Turkish: Beginner
 
 ## 🚀 Projects:
